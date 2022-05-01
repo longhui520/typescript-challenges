@@ -1,0 +1,24 @@
+{
+  "name": "typescript-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longhui520/typescript-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longhui520/typescript-challenges/issues"
+  },
+  "homepage": "https://github.com/longhui520/typescript-challenges#readme",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "typescript": "^4.6.4"
+  }
+}
